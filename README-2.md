@@ -84,7 +84,5 @@ World Bank spending data wasn't available for all countries in all years — par
 - `political_leadership_age_analysis.ipynb` — full analysis notebook
 - `PLAD_Oct_2021.csv` — leaders dataset
 - World Bank CSVs for military, education, and health expenditure
-
----
-
-*Chetan Singh | B.Tech Computer Science (2022–2026)*
+LICENSE
+This repository is licensed under the MIT license. See the LICENSE file for more information.
