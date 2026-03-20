@@ -17,7 +17,7 @@ So I pulled together data on 1,109 world leaders across 177 countries from 1989 
 
 ## Datasets Used
 
-- **PLAD (Political Leaders' Affiliation Database)** — 1,109 leaders, 177 countries, 1989–2020. Includes birth year, entry/exit dates, gender, education level.
+- **PLAD (https://www.kaggle.com/datasets/mexwell/political-leaders-affiliation-database-plad)** — 1,109 leaders, 177 countries, 1989–2020. Includes birth year, entry/exit dates, gender, education level.
 - **World Bank — Military Expenditure (% of GDP)**
 - **World Bank — Government Expenditure on Education (% of GDP)**
 - **World Bank — Current Health Expenditure (% of GDP)**
