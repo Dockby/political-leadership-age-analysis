@@ -4,7 +4,7 @@ I've always been curious about whether the age of a political leader actually ch
 
 So I pulled together data on 1,109 world leaders across 177 countries from 1989 to 2020, merged it with World Bank spending indicators, and ran the numbers. Some of what I found confirmed my expectations. A lot of it didn't.
 
----
+
 
 ## What I Was Trying to Find Out
 
@@ -13,7 +13,7 @@ So I pulled together data on 1,109 world leaders across 177 countries from 1989 
 - Does gender affect spending priorities?
 - Which regions tend to produce younger leaders vs older ones?
 
----
+
 
 ## Datasets Used
 
@@ -24,7 +24,7 @@ So I pulled together data on 1,109 world leaders across 177 countries from 1989 
 
 I merged all four datasets by matching country and year, expanding each leader's tenure into individual years so I could link spending data to the exact years they were in power.
 
----
+
 
 ## Key Findings
 
@@ -63,13 +63,13 @@ Europe has the highest proportion of young leaders by a significant margin. Asia
 
 All three groups averaged between 7 and 8 on the education scale (Masters-level and above). Being highly educated seems to be a baseline requirement for political leadership regardless of age.
 
----
+
 
 ## A Note on Data Limitations
 
 World Bank spending data wasn't available for all countries in all years — particularly for conflict-affected states in the early 1990s. I worked with ~4,500 data points for military and ~3,300–3,500 for education and health out of 7,900 total leader-year observations. The findings are directionally solid but should be read with that context in mind.
 
----
+
 
 ## Tools Used
 
@@ -77,7 +77,7 @@ World Bank spending data wasn't available for all countries in all years — par
 - Google Colab
 - Data sources: PLAD Database, World Bank Open Data
 
----
+
 
 ## Files
 
